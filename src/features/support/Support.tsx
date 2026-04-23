@@ -103,8 +103,8 @@ export function Support() {
             <Mail className="h-6 w-6 text-slate-400 mx-auto mb-2" />
             <h3 className="font-semibold text-slate-900 text-sm mb-1">Soporte Directo</h3>
             <p className="text-xs text-slate-500 mb-3">Tiempo de respuesta: ~2 horas</p>
-            <a href="mailto:soporte@battlebot.edu.pe" className="text-blue-600 hover:text-blue-800 text-sm font-medium hover:underline">
-              soporte@battlebot.edu.pe
+            <a href="mailto:soporte@zoidsleague.com" className="text-blue-600 hover:text-blue-800 text-sm font-medium hover:underline">
+              soporte@zoidsleague.com
             </a>
           </div>
         </div>

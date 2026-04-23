@@ -34,7 +34,7 @@ export function Sidebar() {
       <div className="flex items-center justify-center h-16 bg-slate-900 border-b border-slate-800">
         <Link to="/dashboard" className="flex items-center space-x-2 text-white font-bold text-xl">
           <Bot className="text-blue-500 h-8 w-8" />
-          <span>Battlebot AI</span>
+          <span>Zoids League</span>
         </Link>
       </div>
       <div className="flex-1 overflow-y-auto py-4">
